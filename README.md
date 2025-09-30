@@ -1,14 +1,17 @@
-# 🧬 WGS-Salmonella-Eggs-Scripts
+
+# 🧬 WGS-Salmonella-Eggs-Scripts 
 
 📌 This repository contains R scripts and resources used in the study:  
 
 **"Genomic Insights into the Prevalence and Genetic Diversity of *Salmonella* in Chicken Eggs in Saudi Arabia"**
 
+
 ---
 
 ## 🔬 Research background
 
-Eggs are an important food source but also a potential vehicle for foodborne pathogens such as *Salmonella*.  
+Eggs are an important food source but also a potential vehicle for foodborne pathogens such as *Salmonella*. 
+From 🥚 **egg sampling** → 🧫 **Salmonella isolation** → 🧬 **whole genome sequencing (WGS)** → 📊 **R-based analyses** → 🖼️ **figures** → 🌍 **public health insights**  
 This project provides **genomic insights** into:  
 
 - 🧫 Prevalence of *Salmonella* serovars in chicken eggs  
