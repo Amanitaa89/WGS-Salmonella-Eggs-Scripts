@@ -1,7 +1,7 @@
 
 # 🧬 WGS-Salmonella-Eggs-Scripts 
 
-📌 This repository contains R scripts and resources used in the study:  
+📌 This repository contains R scripts used in the study:  
 
 **"Genomic Insights into the Prevalence and Genetic Diversity of *Salmonella* in Chicken Eggs in Saudi Arabia"**
 
