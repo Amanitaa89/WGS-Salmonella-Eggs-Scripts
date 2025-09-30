@@ -5,13 +5,13 @@
 
 **"Genomic Insights into the Prevalence and Genetic Diversity of *Salmonella* in Chicken Eggs in Saudi Arabia"**
 
-
 ---
 
 ## 🔬 Research background
 
 Eggs are an important food source but also a potential vehicle for foodborne pathogens such as *Salmonella*. 
 From 🥚 **egg sampling** → 🧫 **_Salmonella_ isolation** → 🧬 **whole genome sequencing (WGS)** → 📊 **R-based analyses** → 🖼️ **figures** → 🌍 **public health insights**  
+
 This project provides **genomic insights** into:  
 
 - 🧫 Prevalence of *Salmonella* serovars in chicken eggs  
@@ -34,4 +34,9 @@ This project provides **genomic insights** into:
 ---
 
 📑 **Supplementary Figures**  
-- **Supp FigS1**: Virulence gene presence/absence grouped by functions (renamed from Fig07 for Supplementary Material)  
+- **Supp FigS1**: Virulence gene presence/absence grouped by functions (renamed from Fig07 for Supplementary Material)
+
+-  ---
+🥚🔬 From eggs to insights → Building safer food systems  
+Developed by the **Saudi Food & Drug Authority (SFDA) – Reference Laboratory for Microbiology**
+
