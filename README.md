@@ -11,7 +11,7 @@
 ## 🔬 Research background
 
 Eggs are an important food source but also a potential vehicle for foodborne pathogens such as *Salmonella*. 
-From 🥚 **egg sampling** → 🧫 **Salmonella isolation** → 🧬 **whole genome sequencing (WGS)** → 📊 **R-based analyses** → 🖼️ **figures** → 🌍 **public health insights**  
+From 🥚 **egg sampling** → 🧫 **_Salmonella_ isolation** → 🧬 **whole genome sequencing (WGS)** → 📊 **R-based analyses** → 🖼️ **figures** → 🌍 **public health insights**  
 This project provides **genomic insights** into:  
 
 - 🧫 Prevalence of *Salmonella* serovars in chicken eggs  
