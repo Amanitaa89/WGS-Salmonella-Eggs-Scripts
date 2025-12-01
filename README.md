@@ -38,5 +38,5 @@ This project provides **genomic insights** into:
 
 -  ---
 From eggs to insights → Building safer food systems  
-Developed by the **Saudi Food & Drug Authority (SFDA) – Reference Laboratory for Microbiology**
+Developed by the **Saudi Food & Drug Authority (SFDA) – Reference Laboratory for Microbiology** Antimicrobial Resistance Department**
 
