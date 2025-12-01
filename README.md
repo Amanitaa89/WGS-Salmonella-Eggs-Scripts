@@ -1,6 +1,5 @@
 
-WGS-Salmonella-Eggs-Scripts 
-
+Genomic Insights into the Prevalence and Genetic Diversity of Salmonella in Chicken Eggs in Saudi Arabia
 This repository contains R scripts used in the study:  
 
 **"Genomic Insights into the Prevalence and Genetic Diversity of *Salmonella* in Chicken Eggs in Saudi Arabia"**
