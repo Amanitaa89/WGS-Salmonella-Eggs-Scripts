@@ -10,7 +10,7 @@ Research background
 
 Eggs are an important food source but can also serve as a vehicle for foodborne pathogens such as *Salmonella*. 
 
-From **egg sampling** → **_Salmonella_ isolation** → **whole genome sequencing (WGS)** → **R-based analyses** → **figures** → **public health insights**  
+From **egg sampling** → **_Salmonella_ isolation** → **whole genome sequencing (WGS)** → **R-based analyses** → **figures**   
 
 This project provides **genomic insights** into:  
 
